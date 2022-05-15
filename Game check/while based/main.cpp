@@ -2,6 +2,7 @@
 using namespace std;
 void main()
 {
+	
 	setlocale(LC_ALL, "rus");
 	int number = 0;
 	int n;

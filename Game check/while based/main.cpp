@@ -20,6 +20,8 @@ void main()
 			n += 1;
 		}
 	}
+	int a;
+	cin >> a;
 	
 		
 		

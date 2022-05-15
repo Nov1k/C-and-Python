@@ -24,6 +24,9 @@ void main()
 			cout << "Вы ввели больше, попробуйте взять число меньше..." << endl;
 	} while (value < age || value > age);
 
+	int b;
+	cin >> b;
+
 	
 	
 	

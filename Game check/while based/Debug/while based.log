@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  while based.vcxproj -> C:\Users\vanun\Desktop\C++Project\while based\Debug\while based.exe
+C:\Users\vanun\Desktop\C++Project\Game check\while based\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  while based.vcxproj -> C:\Users\vanun\Desktop\C++Project\Game check\Debug\while based.exe

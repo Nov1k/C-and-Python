@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(22,2): error C2065: fdfdf: необъявленный идентификатор
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(23,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "FD"
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(23,3): error C2065: FD: необъявленный идентификатор
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(24,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dfdf"
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(24,3): error C2065: dfdf: необъявленный идентификатор
+C:\Users\vanun\Desktop\C++Project\while based\while based\main.cpp(31,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
